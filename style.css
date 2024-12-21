@@ -1,0 +1,46 @@
+#sosna{
+    background-color: lightblue;
+}
+
+#tabelka>table, td, th{
+    border-collapse: collapse;
+    border: 1px solid black;
+    
+}
+.suggestion:hover{
+    background-color: lightgreen;
+    cursor: default;
+}
+.wybrany{
+    color: greenyellow;
+    background-color: white;
+}
+#tabelka{
+    background-color:aliceblue;
+}
+.win{
+    background-color: greenyellow;
+    
+    display: none; 
+}
+#box{
+    background-color:beige;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+header{
+    font-size: 1000%;
+    background: transparent;
+    font-family: 'Brush Script MT', cursive;
+    
+}
+
+.menu{
+    list-style-type: none;
+}
+.menu > li{
+	float: left; 
+	width: 30%;
+    
+}
